@@ -1,5 +1,7 @@
 # security
 
+---
+
 ### 0x01. Identity: w4llnut
 
 "The tougher the shell, the sweeter the core."
@@ -30,7 +32,6 @@ class W4llnut:
     def __init__(self):
         self.languages = ["Python", "JavaScript", "Bash"]
         self.skills = ["Web Pentesting", "Static Analysis", "Exploit Dev"]
-
     def mission(self):
         return "Find the unfindable."
 
@@ -38,5 +39,7 @@ class W4llnut:
 
 ### [0x05] Contact
 w4llnut.crack@gmail.com
+
+---
 
 [ EOF ]
