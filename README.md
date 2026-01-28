@@ -2,7 +2,7 @@
 
 ---
 
-### 0x01. Identity: w4llnut
+### [0x01] Identity: w4llnut
 
 "The tougher the shell, the sweeter the core."
 
