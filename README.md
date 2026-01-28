@@ -27,19 +27,26 @@ I enjoy stripping away front-end constraints to see how the system behaves under
 ---
 
 ### [0x04] Technical Stack
-python
+```python
 class W4llnut:
     def __init__(self):
         self.languages = ["Python", "JavaScript", "Bash"]
         self.skills = ["Web Pentesting", "Static Analysis", "Exploit Dev"]
     def mission(self):
         return "Find the unfindable."
-
+```
 ---
 
 ### [0x05] Contact
-w4llnut.crack@gmail.com
+- w4llnut.crack@gmail.com
 
 ---
+
+### [ox06] Security Policy
+- I follow Responsible Disclosure principles. My goal is to make the web safer, one shell at a time.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 
 [ EOF ]
